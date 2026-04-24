@@ -1,0 +1,11 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #088de6;
+}
+.hero-section {
+    background-image: url("assets/images/1share.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
